@@ -1,5 +1,10 @@
-# PaperAirplane
+# Descriptions on how to create a paper airplane
+
+May 8, 2017
+
+
 How to make a paper airplane
+
 Obtain a rectangular piece of paper
 1. Fold a sheet of paper in half, lengthwise.
 2. Fold the top corners towards the center.
