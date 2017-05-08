@@ -1,7 +1,8 @@
 # PaperAirplane
 How to make a paper airplane
 Obtain a rectangular piece of paper
-1. Fold the paper in half to make acrease in the middle
-1. unfold the paper
-1. Fold the upper right corner of paper to the middle crease
-1. Fold the upper left corner of paper to the middle crease 
+1. Fold a sheet of paper in half, lengthwise.
+2. Fold the top corners towards the center.
+3. Fold the angled edges towards the center.
+4. Fold along the center crease.
+5. Fold down the two top flaps to make the wings.
